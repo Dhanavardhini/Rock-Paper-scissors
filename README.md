@@ -2,7 +2,7 @@
 
 This repository contains code for rock,paper and scissors game in reactjs.
 
-View Demo:
+View Demo: https://rock-paper-scissorsg.netlify.app/
 
 ## Building and running on localhost
 
